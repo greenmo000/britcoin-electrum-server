@@ -24,7 +24,7 @@ setup(
     ],
     description="britcoin Electrum Server",
     author="Thomas Voegtlin & Soopy452000 & greenmo000",
-    author_email="thomasv1@gmx.de",
+    author_email="britcoin3@gmail.com",
     license="GNU Affero GPLv3",
     url="https://github.com/britcoin3/electrum-britcoin-server/",
     long_description="""Server for the Electrum Lightweight Britcoin Wallet"""
