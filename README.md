@@ -1,3 +1,4 @@
+# electrum-britcoin-server
 electrum-britcoin-server for the electrum britcoin client
 ---------
 
@@ -34,4 +35,3 @@ License
 Electrum-server is made available under the terms of the [GNU Affero General
 Public License](http://www.gnu.org/licenses/agpl.html), version 3. See the 
 included `LICENSE` for more details.
-# britcoin-electrum-server
